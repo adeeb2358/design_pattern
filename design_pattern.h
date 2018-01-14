@@ -1,0 +1,6 @@
+#ifndef DESIGN_PATTERN_H
+#define DESIGN_PATTERN_H
+
+
+
+#endif // DESIGN_PATTERN_H
